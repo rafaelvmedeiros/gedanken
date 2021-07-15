@@ -1,0 +1,32 @@
+{
+  "transacao": [
+    {
+      "estabelecimento": "45.283.163/0001-67",
+      "cliente": "094.214.930-01",
+      "valor": 590.01,
+      "descricao": "Pagamento a fornecedor auditado via Gedanken!",
+      "id": 1
+    },
+    {
+      "estabelecimento": "45.283.163/0001-68",
+      "cliente": "094.214.930-02",
+      "valor": 2345.01,
+      "descricao": "Pagamento a fornecedor auditado via Gedanken!",
+      "id": 2
+    },
+    {
+      "estabelecimento": "45.283.163/0001-40",
+      "cliente": "094.214.930-06",
+      "valor": 234.01,
+      "descricao": "Pagamento a fornecedor auditado via Gedanken!",
+      "id": 3
+    },
+    {
+      "estabelecimento": "45.283.163/0001-56",
+      "cliente": "094.214.930-34",
+      "valor": 3434.01,
+      "descricao": "Pagamento a fornecedor auditado via Gedanken!",
+      "id": 4
+    }
+  ]
+}

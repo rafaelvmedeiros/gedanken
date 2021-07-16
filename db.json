@@ -1,4 +1,10 @@
 {
+  "usuario": {
+    "id": 1,
+    "name": "Rafael Medeiros",
+    "email": "rafaeldesenv.net@gmail.com",
+    "picture": "rafael.jpeg"
+  },
   "transacao": [
     {
       "estabelecimento": "45.283.163/0001-67",

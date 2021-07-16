@@ -1,5 +1,13 @@
 import React from 'react';
 
-const Dashboard: React.FC = () => <h1>Home</h1>;
+import { Wrapper } from './styles';
+
+import Transactions from '../../components/Transactions';
+
+const Dashboard: React.FC = () => (
+  <Wrapper>
+    <Transactions />
+  </Wrapper>
+);
 
 export default Dashboard;
